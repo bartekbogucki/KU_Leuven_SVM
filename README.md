@@ -1,0 +1,1 @@
+Applied kernel methods (RBF, linear, polynomial), performed hyperparameter tuning via cross-validation, and evaluated model generalization performance. Explored primal/dual formulations and regularization effects, model complexity and overfitting.
